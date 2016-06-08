@@ -1,6 +1,9 @@
 #include "myclass.h"
 #include <QtWidgets/QApplication>
+/****
+![](image/Chrysanthemum.jpg)
 
+****/
 int main(int argc, char *argv[])
 {
 	QApplication a(argc, argv);
